@@ -28,5 +28,16 @@ public class TestClass1 {
 		System.out.println("This is the second function of TestClass6 --Savleen");
 		System.out.println("This is the second function of TestClass7 --Savleen");
 		System.out.println("This is the second function of TestClass8 --Savleen");
+		System.out.println("AmarSAVLEEN test o in foo1::::1");
+		System.out.println("AmarSAVLEEN test o in foo1::::2");
+		System.out.println("AmarSAVLEEN test o in foo1::::3");
+		System.out.println("AmarSAVLEEN test o in foo1::::4");
+	}
+	
+	public void foo2() {
+		System.out.println("AmarSAVLEEN test o in foo2::::1");
+		System.out.println("AmarSAVLEEN test o in foo2::::2");
+		System.out.println("AmarSAVLEEN test o in foo2::::3");
+		System.out.println("AmarSAVLEEN test o in foo2::::4");
 	}
 }
