@@ -29,4 +29,8 @@ public class TestClass1 {
 		System.out.println("This is the second function of TestClass7 --Savleen");
 		System.out.println("This is the second function of TestClass8 --Savleen");
 	}
+	
+	public void foo2() {
+		System.out.println("added in savleen branch after merging amar branch in main master");
+	}
 }
